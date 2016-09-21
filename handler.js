@@ -2,7 +2,6 @@
 
 require('dotenv').config();
 
-const crypto = require('crypto');
 const fetch = require('node-fetch');
 const LineBot = require('line-bot-sdk');
 
