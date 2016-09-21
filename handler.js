@@ -18,4 +18,4 @@ module.exports = {
     .then(res => cb(null, res))
     .catch(err => cb(err));
   }
-}
+};
