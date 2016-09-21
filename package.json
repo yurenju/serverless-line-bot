@@ -5,6 +5,7 @@
   "main": "handler.js",
   "dependencies": {
     "dotenv": "^2.0.0",
+    "line-bot-sdk": "^0.1.4",
     "node-fetch": "^1.6.1"
   },
   "devDependencies": {},
